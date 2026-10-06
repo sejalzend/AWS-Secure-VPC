@@ -1,4 +1,4 @@
-# Project 3 — Secure AWS VPC with Public and Private Subnets
+# Project 3 - Secure AWS VPC with Public and Private Subnets
 
 ## 1. Project Overview
 
